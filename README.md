@@ -3,8 +3,8 @@
 
 - 💬 Ask me about **Python, C, JavaScript, Web-development, DevOps**
 - 📫 How to reach me **nebiyouseifu2@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/NebiyouBelaineh**
-- 📝 I regularly write articles on **https://medium.com/@nebiyouseifu2**
+- 👨‍💻 All of my projects are available at [Nebiyou Belaineh](https://github.com/NebiyouBelaineh)
+- 📝 I regularly write articles on [Medium](https://medium.com/@nebiyouseifu2)
 
 <div> <a href="https://twitter.com/SeifuNebiyou" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nebiyou-belaineh-2a683415b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
