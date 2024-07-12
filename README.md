@@ -4,7 +4,7 @@
 - 💬 Ask me about **Python, C, JavaScript, Web-development, DevOps**
 - 📫 How to reach me **nebiyouseifu2@gmail.com**
 - 👨‍💻 All of my projects are available at [Nebiyou Belaineh](https://github.com/NebiyouBelaineh)
-- 📝 I regularly write articles on [Medium](https://medium.com/@nebiyouseifu2)
+- 📝 I write articles on [Medium](https://medium.com/@nebiyouseifu2)
 
 
 ![](https://komarev.com/ghpvc/?username=NebiyouBelaineh&color=red)
