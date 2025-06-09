@@ -5,7 +5,7 @@
 - 📫 How to reach me **nebiyouseifu2@gmail.com**
 - 👨‍💻 All of my projects are available at [Nebiyou Belaineh](https://github.com/NebiyouBelaineh)
 - 📝 I write articles on [Medium](https://medium.com/@nebiyouseifu2)
-- Checkout my Portfolio [website](https://www.nebiyoubelaineh.tech/).
+- Checkout my Portfolio [website](https://www.nebiyoubelaineh.et/).
 
 
 ![](https://komarev.com/ghpvc/?username=NebiyouBelaineh&color=red)
